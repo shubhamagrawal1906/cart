@@ -8,23 +8,23 @@ To authenticate user, you have to add token with headers in each api you call, t
 
 Add it in header as given below -
 
-** Authorization: Token 9944b09199c62bcf9418ad846dd0e4bbdfc6ee4b **
+__Authorization: _Token 9944b09199c62bcf9418ad846dd0e4bbdfc6ee4b___
 
-User need to approved after order any items.
-The link has been sent to registered email of user.
-Click that link to approve your order.
+User need to __approved__ after order any item.
+The link has been sent to __registered email__ of user.
+Click that __link__ to __approve__ your order.
 
 ## Requiements are provided in requirements.txt :-
 
-Django==1.11.3
+_Django==1.11.3_
 
-django-filter==1.0.4
+_django-filter==1.0.4_
 
-djangorestframework==3.6.3
+_djangorestframework==3.6.3_
 
-Markdown==2.6.8
+_Markdown==2.6.8_
 
-pytz==2017.2
+_pytz==2017.2_
 
 ## Urls are :-
 

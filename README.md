@@ -36,10 +36,10 @@ _pytz==2017.2_
 
 1. _/order/validate/token/_ -> To approve created order
 
-* _/order/order_id/_ -> To get detail of specific order of authenticated user only
+1. _/order/order_id/_ -> To get detail of specific order of authenticated user only
 
-* _/order/?page=n_ -> To get all orders of authenticated user only with pagination
+1. _/order/?page=n_ -> To get all orders of authenticated user only with pagination
 
-* _/orderitem/create/_ -> To create item according to order for authenticated user
+1. _/orderitem/create/_ -> To create item according to order for authenticated user
 
-* _/orderitem/order_id/?page=n_ -> To get all order items of specific order of authenticated user only with pagination
+1. _/orderitem/order_id/?page=n_ -> To get all order items of specific order of authenticated user only with pagination

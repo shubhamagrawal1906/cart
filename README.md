@@ -28,13 +28,13 @@ _pytz==2017.2_
 
 ## Urls are :-
 
-* _/auth/signup/_ -> To register new user
+1. _/auth/signup/_ -> To register new user
 
-* _/auth/login/_ -> To login existig user
+1. _/auth/login/_ -> To login existig user
 
-* _/order/create/_ -> To create new order for authenticated user
+1. _/order/create/_ -> To create new order for authenticated user
 
-* _/order/validate/token/_ -> To approve created order
+1. _/order/validate/token/_ -> To approve created order
 
 * _/order/order_id/_ -> To get detail of specific order of authenticated user only
 

@@ -1,6 +1,7 @@
 # Cart
 
-Description
+Description :-
+
 
 It is a cart system api that involve the creation and retrieval of order and its order items.
 
@@ -12,9 +13,12 @@ Add it in header as given below.
 
 Authorization: Token 9944b09199c62bcf9418ad846dd0e4bbdfc6ee4b
 
-User need to approved after order the items. The link has been sent to registered email of user. Click that link to approve your order.
+User need to approved after order the items.
 
-Requiements are provided in requirements.txt
+The link has been sent to registered email of user. Click that link to approve your order.
+
+Requiements are provided in requirements.txt :-
+
 
 Django==1.11.3
 
@@ -26,7 +30,8 @@ Markdown==2.6.8
 
 pytz==2017.2
 
-Urls are 
+Urls are :-
+
 
 /auth/signup/ -> To register new user
 

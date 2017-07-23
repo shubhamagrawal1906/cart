@@ -28,18 +28,18 @@ _pytz==2017.2_
 
 ## Urls are :-
 
-1. _/auth/signup/_ -> To register new user
+1. _/auth/signup/_ --> To register new user
 
-1. _/auth/login/_ -> To login existig user
+1. _/auth/login/_ --> To login existig user
 
-1. _/order/create/_ -> To create new order for authenticated user
+1. _/order/create/_ --> To create new order for authenticated user
 
-1. _/order/validate/token/_ -> To approve created order
+1. _/order/validate/token/_ --> To approve created order
 
-1. _/order/order_id/_ -> To get detail of specific order of authenticated user only
+1. _/order/order_id/_ --> To get detail of specific order of authenticated user only
 
-1. _/order/?page=n_ -> To get all orders of authenticated user only with pagination
+1. _/order/?page=n_ --> To get all orders of authenticated user only with pagination
 
-1. _/orderitem/create/_ -> To create item according to order for authenticated user
+1. _/orderitem/create/_ --> To create item according to order for authenticated user
 
-1. _/orderitem/order_id/?page=n_ -> To get all order items of specific order of authenticated user only with pagination
+1. _/orderitem/order_id/?page=n_ --> To get all order items of specific order of authenticated user only with pagination
